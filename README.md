@@ -106,3 +106,6 @@ Ensure that you follow the list of [theme store requirements](https://shopify.de
 ## License
 
 Copyright (c) 2021-present Shopify Inc. See [LICENSE](/LICENSE.md) for further details.
+
+<!-- X You are not authorized to edit themes on demo-store-vn.myshopify.com.
+Make sure you are a user of that store, and allowed to edit themes. -->
